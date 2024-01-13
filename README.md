@@ -1,5 +1,9 @@
 # Salesforce-Helper
 A Chrome Extension to help Salesforce developers improve productivity.
+https://chromewebstore.google.com/detail/salesforce-helper/llofomohhopkfmiakeoedomncgpffecf?hl=en
+
+Pravicy Policy:  
+https://blog.keal.us/privacy-policy/
 
 ## Record Navigator
 ### Description：
